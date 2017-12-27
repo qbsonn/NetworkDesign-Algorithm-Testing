@@ -1,0 +1,34 @@
+C:\Users\Kuba\Desktop\Projekt2_new\Projekt2_czesc2\Projekt2_czesc2\bin\Debug\Projekt2_czesc2.exe.config
+C:\Users\Kuba\Desktop\Projekt2_AISDE\Projekt2_czesc2\Projekt2_czesc2\bin\Debug\Projekt2_czesc2.exe.config
+C:\Users\Kuba\Desktop\Projekt2_AISDE\Projekt2_czesc2\Projekt2_czesc2\bin\Debug\Projekt2_czesc2.exe
+C:\Users\Kuba\Desktop\Projekt2_AISDE\Projekt2_czesc2\Projekt2_czesc2\bin\Debug\Projekt2_czesc2.pdb
+C:\Users\Kuba\Desktop\Projekt2_AISDE\Projekt2_czesc2\Projekt2_czesc2\obj\Debug\Projekt2_czesc2.exe
+C:\Users\Kuba\Desktop\Projekt2_AISDE\Projekt2_czesc2\Projekt2_czesc2\obj\Debug\Projekt2_czesc2.pdb
+C:\Users\Kuba\Desktop\Projekt2_AISDE\Projekt2_czesc2\Projekt2_czesc2\obj\Debug\Projekt2_czesc2.csprojResolveAssemblyReference.cache
+C:\Users\Kuba\Desktop\Projekt2_czesc2_jak_zadziala_to_postawie_sobie piwo\Projekt2_czesc2\bin\Debug\Projekt2_czesc2.exe.config
+C:\Users\Kuba\Desktop\Projekt2_czesc2_jak_zadziala_to_postawie_sobie piwo\Projekt2_czesc2\obj\Debug\Projekt2_czesc2.exe
+C:\Users\Kuba\Desktop\Projekt2_czesc2_jak_zadziala_to_postawie_sobie piwo\Projekt2_czesc2\obj\Debug\Projekt2_czesc2.pdb
+C:\Users\Kuba\Desktop\Projekt2_czesc2_jak_zadziala_to_postawie_sobie piwo\Projekt2_czesc2\obj\Debug\Projekt2_czesc2.csprojResolveAssemblyReference.cache
+C:\Users\Kuba\Desktop\Projekt2_czesc2_jak_zadziala_to_postawie_sobie piwo\Projekt2_czesc2\bin\Debug\Projekt2_czesc2.exe
+C:\Users\Kuba\Desktop\Projekt2_czesc2_jak_zadziala_to_postawie_sobie piwo\Projekt2_czesc2\bin\Debug\Projekt2_czesc2.pdb
+C:\Users\Kuba\Desktop\Projekt2_AISDE\Projekt2_czesc2_aktualne\Projekt2_czesc2\bin\Debug\Projekt2_czesc2.exe.config
+C:\Users\Kuba\Desktop\Projekt2_AISDE\Projekt2_czesc2_aktualne\Projekt2_czesc2\obj\Debug\Projekt2_czesc2.exe
+C:\Users\Kuba\Desktop\Projekt2_AISDE\Projekt2_czesc2_aktualne\Projekt2_czesc2\obj\Debug\Projekt2_czesc2.pdb
+C:\Users\Kuba\Desktop\Projekt2_AISDE\Projekt2_czesc2_aktualne\Projekt2_czesc2\bin\Debug\Projekt2_czesc2.exe
+C:\Users\Kuba\Desktop\Projekt2_AISDE\Projekt2_czesc2_aktualne\Projekt2_czesc2\bin\Debug\Projekt2_czesc2.pdb
+C:\Users\Kuba\Desktop\Projekt2_AISDE\Projekt2_czesc2_aktualne\Projekt2_czesc2\obj\Debug\Projekt2_czesc2.csprojResolveAssemblyReference.cache
+C:\Users\Kuba\Desktop\Projekt2_AISDE_Krasowski_Kaźmierska\Projekt2_czesc2_aktualne\Projekt2_czesc2\bin\Debug\Projekt2_czesc2.exe.config
+C:\Users\Kuba\Desktop\Projekt2_AISDE_Krasowski_Kaźmierska\Projekt2_czesc2_aktualne\Projekt2_czesc2\obj\Debug\Projekt2_czesc2.exe
+C:\Users\Kuba\Desktop\Projekt2_AISDE_Krasowski_Kaźmierska\Projekt2_czesc2_aktualne\Projekt2_czesc2\obj\Debug\Projekt2_czesc2.pdb
+C:\Users\Kuba\Desktop\Test\Projekt2_czesc2_aktualne\Projekt2_czesc2\bin\Debug\Projekt2_czesc2.exe.config
+C:\Users\Kuba\Desktop\Test\Projekt2_czesc2_aktualne\Projekt2_czesc2\obj\Debug\Projekt2_czesc2.exe
+C:\Users\Kuba\Desktop\Test\Projekt2_czesc2_aktualne\Projekt2_czesc2\obj\Debug\Projekt2_czesc2.pdb
+C:\Users\Kuba\Desktop\Test\Projekt2_czesc2_aktualne\Projekt2_czesc2\bin\Debug\Projekt2_czesc2.exe
+C:\Users\Kuba\Desktop\Test\Projekt2_czesc2_aktualne\Projekt2_czesc2\bin\Debug\Projekt2_czesc2.pdb
+C:\Users\Kuba\Desktop\Test\Projekt2_czesc2_aktualne\Projekt2_czesc2\obj\Debug\Projekt2_czesc2.csprojResolveAssemblyReference.cache
+C:\Users\Kuba\Desktop\Projekt2_czesc2_aktualne\Projekt2_czesc2\bin\Debug\Projekt2_czesc2.exe.config
+C:\Users\Kuba\Desktop\Projekt2_czesc2_aktualne\Projekt2_czesc2\obj\Debug\Projekt2_czesc2.exe
+C:\Users\Kuba\Desktop\Projekt2_czesc2_aktualne\Projekt2_czesc2\obj\Debug\Projekt2_czesc2.pdb
+C:\Users\Kuba\Desktop\Projekt2_czesc2_aktualne\Projekt2_czesc2\bin\Debug\Projekt2_czesc2.exe
+C:\Users\Kuba\Desktop\Projekt2_czesc2_aktualne\Projekt2_czesc2\bin\Debug\Projekt2_czesc2.pdb
+C:\Users\Kuba\Desktop\Projekt2_czesc2_aktualne\Projekt2_czesc2\obj\Debug\Projekt2_czesc2.csprojResolveAssemblyReference.cache

@@ -1,0 +1,30 @@
+# liczba wezlow, wezly numerowane sa od 1, przyklad dla krawedzi nieskierowanych
+WEZLY = 9
+
+# liczba krawedzi
+LACZA = 16
+# kazde lacze to: id., wezel poczatkowy, wezel koncowy, pojemnosc modulu, koszt modulu
+1 1 2 4.0 1.0
+2 1 5 5.0 3.0
+3 2 3 4.0 1.0
+4 5 2 1.0 2.0
+5 5 4 1.0 1.0
+6 5 6 4.0 1.0
+7 3 4 5.0 3.0
+8 6 4 5.0 1.0
+9 3 7 7.0 10.0
+10 4 7 5.0 10.0
+11 7 6 3.0 3.0
+12 6 7 2.0 1.0
+13 3 8 7.0 0.5
+14 8 9 7.0 0.3
+15 9 4 7.0 1.0
+16 8 7 7.0 3.0
+
+#liczba zapotrzebowan
+ZAPOTRZEBOWANIA = 4
+# kazde zapotrzebowanie to czworka (id., wezel poczatkowy, wezel koncowy, rozmiar)
+1 1 7 5.0
+2 3 6 7.0
+3 2 8 3.0
+4 5 8 5.0

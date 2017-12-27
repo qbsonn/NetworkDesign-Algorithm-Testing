@@ -1,0 +1,30 @@
+# koszt rozwiazania
+KOSZT = 32,5
+ 
+# liczba zapotrzebowan
+ZAPOTRZEBOWANIA = 4
+# kazde zapotrzebowanie to id. zapotrzebowania oraz zbior uzytych krawedzi
+1
+2
+3
+4
+ 
+# liczba krawedzi
+LACZA = 16
+# kazde lacze to: id, liczba zainstalowanych modulow przepustowosci
+1  2   
+2  0   
+3  4   
+4  5   
+5  0   
+6  0   
+7  0   
+8  0   
+9  0   
+10  0   
+11  3   
+12  0   
+13  3   
+14  0   
+15  0   
+16  2   
